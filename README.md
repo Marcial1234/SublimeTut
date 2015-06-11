@@ -13,7 +13,7 @@
   <scope>source.python</scope>
   <!-- Optional: Description to show in the menu -->
   <description>My Fancy Snippet</description>
-  </snippet>
+</snippet>
 ```
 
 Will create
