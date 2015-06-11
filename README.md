@@ -18,6 +18,6 @@
 
 Will create
 ```python
-def ${1:function}(${4:params}):
-  print 'Hello, ${2:this} is a ${3:snippet}.'
+def function():
+  print 'Hello, this is a snippet.'
 ```
